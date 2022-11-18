@@ -7,7 +7,7 @@ const Title = styled.div`
   
   h1 {
     font-size: 40px;
-    color: #ffd700;
+    color: #fad51e;
   }
 `;
 
